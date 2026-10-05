@@ -1,4 +1,4 @@
-# Hey, I'm Jimena 👋
+# Hey, I'm Jimena ☻
 
 **Multimedia Engineer · Software Developer · Alicante, Spain 🇪🇸**
 
