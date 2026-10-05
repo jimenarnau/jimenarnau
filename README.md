@@ -2,7 +2,7 @@
 
 **Multimedia Engineer · Software Developer · Alicante, Spain 🇪🇸**
 
-I like turning ideas into things that actually work — from **web applications and backend systems** to interfaces that are easier and more pleasant to use.
+I like turning ideas into things that actually work: from **web applications and backend systems** to interfaces that are easier and more pleasant to use.
 
 My background in Multimedia Engineering has led me to combine **software development, UX/UI and accessibility**, with a growing focus on building solid backend foundations.
 
@@ -36,31 +36,32 @@ code        →        design        →        experience
 
 ---
 
-## 🚀 Things I've Built
+🚀 Things I've Built
+📱 Experiencia Sénior — Accessible Cybersecurity App
 
-### 📱 [Project Name]
+An accessible mobile-first web application that adapts INCIBE's Experiencia Sénior programme to help older adults learn how to identify and prevent digital fraud.
 
-> A short sentence explaining what the project does and why you built it.
+Angular TypeScript HTML CSS Figma PWA
 
-`Angular` `TypeScript` `HTML` `CSS`
+Focused on accessibility, usability and user-centred design.
+Implemented reusable Angular components and responsive interfaces.
+Applied WCAG 2.2 AA accessibility principles.
+Developed an interactive learning experience focused on smishing prevention.
 
-[View project →](#)
+View project →
 
-### 🌐 [Project Name]
+🦊 FoxBit — 3D Educational Platform
 
-> A short sentence explaining the problem the project solves.
+A team-developed 3D educational web application designed to help teenagers learn Arduino and electronics through an interactive environment.
 
-`Java` `SQL` `[Other technology]`
+Angular TypeScript Node.js Express.js WebGL JSON
 
-[View project →](#)
+Developed Angular components and services connecting the interface with the application logic and 3D environment.
+Implemented level validation and circuit logic.
+Managed level conditions using JSON data and seed scripts.
+Worked collaboratively in a team to coordinate tasks, discuss solutions and solve technical issues.
 
-### 🎮 [Project Name]
-
-> A short sentence explaining the project.
-
-`[Technology]` `[Technology]` `[Technology]`
-
-[View project →](#)
+View project →
 
 ---
 
@@ -69,13 +70,20 @@ code        →        design        →        experience
 **BSc in Multimedia Engineering**
 University of Alicante
 
+🌍 Erasmus+
+
+Cracow University of Technology — Kraków, Poland
+February 2025 — June 2025
+
+An international academic experience in a multicultural environment, developing both technical and communication skills.
+
 **Cambridge English — C1**
 
 ---
 
 ## 📬 Let's Connect
 
-[LinkedIn](#) · [Email](mailto:your@email.com) · [GitHub](#)
+[LinkedIn](https://www.linkedin.com/in/jimena-arnau/) · [Email](mailto:jimena.arnau.it@gmail.com) · [GitHub](https://github.com/jimenarnau)
 
 <br>
 
