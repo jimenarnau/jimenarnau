@@ -1,4 +1,4 @@
-# Hey, I'm Jimena ☻
+# Hey, I'm Jimena ☺
 
 **Multimedia Engineer · Software Developer · Alicante, Spain 🇪🇸**
 
@@ -13,55 +13,58 @@ code        →        design        →        experience
 
 ### Currently
 
-🌱 Strengthening my **backend development** skills
-💻 Building projects with **Java, Angular & TypeScript**
-♿ Interested in **accessible and user-centred technology**
-🌍 Always looking for opportunities to learn, build and collaborate
+* 🌱 Strengthening my **backend development** skills
+* 💻 Building projects with **Java, Angular & TypeScript**
+* ♿ Interested in **accessible and user-centred technology**
+* 🌍 Always looking for opportunities to learn, build and collaborate
 
 ---
 
 ## 🧩 What I Work With
 
-**Languages**
+### Languages
 
 `C` `C++` `Java` `JavaScript` `TypeScript` `HTML` `CSS`
 
-**Development**
+### Development
 
 `Angular` `Node.js` `SQL` `Git` `GitHub`
 
-**Design & Multimedia**
+### Design & Multimedia
 
 `Figma` `Blender` `UX/UI` `Accessibility`
 
 ---
 
-🚀 Things I've Built
-📱 Experiencia Sénior — Accessible Cybersecurity App
+## 🚀 Things I've Built
 
-An accessible mobile-first web application that adapts INCIBE's Experiencia Sénior programme to help older adults learn how to identify and prevent digital fraud.
+### 📱 Experiencia Sénior — Accessible Cybersecurity App
 
-Angular TypeScript HTML CSS Figma PWA
+An accessible mobile-first web application that adapts **INCIBE's Experiencia Sénior** programme to help older adults learn how to identify and prevent digital fraud.
 
-Focused on accessibility, usability and user-centred design.
-Implemented reusable Angular components and responsive interfaces.
-Applied WCAG 2.2 AA accessibility principles.
-Developed an interactive learning experience focused on smishing prevention.
+**Tech Stack:**
+`Angular` `TypeScript` `HTML` `CSS` `Figma` `PWA`
 
-View project →
+* Focused on **accessibility, usability and user-centred design**.
+* Implemented reusable Angular components and responsive interfaces.
+* Applied **WCAG 2.2 AA** accessibility principles.
+* Developed an interactive learning experience focused on **smishing prevention**.
 
-🦊 FoxBit — 3D Educational Platform
+[View project →](#)
 
-A team-developed 3D educational web application designed to help teenagers learn Arduino and electronics through an interactive environment.
+### 🦊 FoxBit — 3D Educational Platform
 
-Angular TypeScript Node.js Express.js WebGL JSON
+A team-developed **3D educational web application** designed to help teenagers learn Arduino and electronics through an interactive environment.
 
-Developed Angular components and services connecting the interface with the application logic and 3D environment.
-Implemented level validation and circuit logic.
-Managed level conditions using JSON data and seed scripts.
-Worked collaboratively in a team to coordinate tasks, discuss solutions and solve technical issues.
+**Tech Stack:**
+`Angular` `TypeScript` `Node.js` `Express.js` `WebGL` `JSON`
 
-View project →
+* Developed Angular components and services connecting the interface with the application logic and 3D environment.
+* Implemented **level validation and circuit logic**.
+* Managed level conditions using JSON data and seed scripts.
+* Worked collaboratively in a team to coordinate tasks, discuss solutions and solve technical issues.
+
+[View project →](#)
 
 ---
 
@@ -70,12 +73,14 @@ View project →
 **BSc in Multimedia Engineering**
 University of Alicante
 
-🌍 Erasmus+
+### 🌍 Erasmus+
 
-Cracow University of Technology — Kraków, Poland
-February 2025 — June 2025
+**Cracow University of Technology — Kraków, Poland**
+*February 2025 — June 2025*
 
 An international academic experience in a multicultural environment, developing both technical and communication skills.
+
+### 🏆 Certification
 
 **Cambridge English — C1**
 
